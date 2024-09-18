@@ -1,4 +1,4 @@
 streamlit
-pypiwin32
+pypiwin32==223
 pandas
 openpyxl
